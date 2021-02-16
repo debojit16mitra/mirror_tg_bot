@@ -20,7 +20,7 @@ This project is heavily inspired from @out386 's telegram bot which is written i
 
 # How to deploy?
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/debojit16mitra/mirror_tg_bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/debojit16mitra/mirror_tg_bot/tree/staging-4.0)
 Deploying is pretty much straight forward and is divided into several steps as follows:
 ## Installing requirements
 
